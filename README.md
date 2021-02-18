@@ -9,7 +9,7 @@
 
 ## Commands for executing unit test cases in this FASTAPI application
 * $ pytest              ===> For executing all test cases of application
-* $ pytest -k test_create_user -v           ===> For executing test case to specified method
+* $ pytest -k test_create_user -v           ===> For executing test case on specified method
 
 
 
